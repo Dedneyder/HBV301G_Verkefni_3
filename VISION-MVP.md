@@ -38,16 +38,7 @@
 
 ## 2. Framtíðarsýn
 
-<!-- Skiptið listanum út fyrir stutta framtíðarsýn í samfelldu máli sem þið getið kynnt fyrir öðrum. Styðjist við atriðin hér að ofan. 
-
-- **Fyrir:** [Hvaða viðskiptavin eða notendahóp?]
-- **Sem:** [Hvaða þörf hefur hópurinn eða hvaða tækifæri er til staðar?]
-- **Er [heiti vöru]:** [Hvers konar vara eða kerfi?]
-- **Sem:** [Hvaða meginvirði eða ávinning skapar varan?]
-- **Ólíkt:** [Núverandi lausn, verklagi eða öðrum valkosti.]
-- **Mun varan:** [Hver er helsti munurinn eða kosturinn?]
-
--->
+Fyrir mannauðsdeildir, stjórnendur og starfsmenn sem þurfa skjótan og öruggan aðgang að upplýsingum um starfsfólk og skipulag fyrirtækisins. Kerfisskráin er vefbundið starfsmanna- og skipuritakerfi sem sameinar allar helstu upplýsingar um starfsmenn á einum stað. Kerfið einfaldar leit að starfsmönnum, uppfærslu starfsmannagagna og yfirsýn yfir skipulag fyrirtækisins sem dregur úr handvirkri vinnu og eykur skilvirkni. Ólíkt því að geyma upplýsingar í Excel-skjölum eða dreifðum kerfum býður Kerfisskráin upp á miðlæga, örugga og alltaf uppfærða lausn þar sem notendur geta auðveldlega fundið þær upplýsingar sem þeir þurfa og séð stöðu sína innan skipulagi fyrirtækisins.
 
 ## 3. Prófíll lykilhagsmunaaðila eða mikilvægra notenda
 
