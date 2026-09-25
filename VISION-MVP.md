@@ -25,16 +25,25 @@
 <!-- Lýsið hvaða árangri viðskiptavinur eða stofnun vill ná með kerfinu og hvers vegna. Setjið fram mælanleg markmið þar sem því verður við komið: núverandi staða, æskileg breyting, mælikvarði og tímamörk. Greinið á milli viðskiptalegs árangurs og virkni kerfisins. Tengið markmiðin við þær þarfir sem komu fram í fyrri verkefnum. -->
 <!-- Takið út hornklofa og fyllið inn í - Endurtakið eftir þörfum --> 
 
-### BO-1: [Mælanlegt viðskiptamarkmið og tímamörk]
+### BO-1: Tryggja að 95% starfsmannagagna séu rétt og uppfærð innan þriggja mánaða frá innleiðingu
+| Atriði | Lýsing |
+|---|---|
+| Mælikvarði (Scale) | Hlutfall réttra og uppfærðra starfsmannagagna |
+| Mæliaðferð (Meter) | Reglulegar úttektir HR deildar |
+| Fyrri staða (Past) | Ekki þekkt enn. Taka úrtak úr núverandi skráningum |
+| Markmið (Goal) | 95% gagnanákvæmni |
+| Metnaðarmarkmið (Stretch) | 99% gagnanákvæmni |
+
+
+### BO-2: Draga úr tíma sem fer í leit að starfsmannaupplýsingum um 50% innan sex mánaða frá innleiðingu
 
 | Atriði | Lýsing |
 |---|---|
-| Mælikvarði (Scale) | [Hvað er mælt?] |
-| Mæliaðferð (Meter) | [Hvernig og hvaðan fást mæligögn?] |
-| Fyrri staða (Past) | [Þekkt upphafsstaða en ef hún er ekki þekkt skrifið "ekki þekkt enn" og segið hvernig megi mæla hana] |
-| Markmið (Goal) | [Árangur sem stefnt er að] |
-| Metnaðarmarkmið (Stretch) | [Árangur umfram markmiðið, ef við á] |
-
+| Mælikvarði (Scale) | Tími sem tekur notendur að finna upplýsingar um starfsmenn |
+| Mæliaðferð (Meter) | Tímamælingar og notendakannanir |
+| Fyrri staða (Past) | Ekki þekkt enn. Mæla með könnun hjá HR og stjórnendum fyrir innleiðingu |
+| Markmið (Goal) | 50% styttri leitartími |
+| Metnaðarmarkmið (Stretch) | 70% styttri leitartími |
 
 ## 2. Framtíðarsýn
 
