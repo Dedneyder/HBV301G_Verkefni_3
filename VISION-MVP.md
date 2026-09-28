@@ -92,11 +92,11 @@ og þarfir og væntingar lykilhagsmunaaðila.
 
 | Vídd | Flokkun | Rökstuðningur |
 |---|---|---|
-| Eiginleikar | [Driver / Constraint / Degree of freedom] | [Hvaða eiginleikar skipta mestu máli og hvers vegna?] |
-| Gæði | [Driver / Constraint / Degree of freedom] | [Hvaða gæði þurfa að ná tilteknu marki?] |
-| Tímasetningar | [Driver / Constraint / Degree of freedom] | [Er afhending á ákveðnum tíma nauðsynleg eða sveigjanleg?] |
-| Kostnaður | [Driver / Constraint / Degree of freedom] | [Er fastur fjárhagsrammi eða svigrúm til breytinga?] |
-| Mannafli | [Driver / Constraint / Degree of freedom] | [Er teymisstærð eða aðgengi að fólki fast eða sveigjanlegt?] |
+| Eiginleikar | [Driver] | [ Helstu lykil eiginleikar eru leitar tól á gagnasafninu, uppfærlsa gagna og yfirsýn yfir skipuritið. Eiginleikarnir eru lykilatriði því án þeirra væri ekki hægt að uppfylla rétt gögn í BO-1 eða tíma tökur í BO-2 ] |
+| Gæði | [Driver] | [ Helstu gæði væru Áreiðanleiki, einföld notkun, öryggi og aðgangs skipting. Gæði kerfisins hafa bein áhrif á hvort hægt er að ná markmiðum til dæmis um 95% gagnanákvæmi og hvort notendur geti treyst á kerfið ] |
+| Tímasetningar | [Degree of freedom] | [ Það er ekki búið að ákveða hvenær afhentingardagurinn er frá viðskiptavini. Þannig er hægt að aðlaga tímasetningu að umfangi og þróun verkefnis meðan við fyrstu útgáfu. Lengi sem hún er skilað innan þeirra tímamarka sem verkefnið fær ] |
+| Kostnaður | [Degree of freedom] | [ Það er enginn fasturkosntnaður á þessum tíma í verkefinu. Því er kostnaður ekki helsti þáttur sem stýrir þróunninn í fyrstu útgáfu. Þó að við ætlum að halda lausninni einfaldri og hagkvæmri ] |
+| Mannafli | [Constraint] | [ Það er algjörlega fast. Engum verðir bæti við eftir þörfum og teymið þarf að vinna að verkefnið með þeirri getu sem það hefur nú þegar. Því Þarf að taka það tilgreina í tímasetningu og umfangi verkefnis. ] |
 
 
 ## 5. Umfang fyrstu útgáfu (MVP)
