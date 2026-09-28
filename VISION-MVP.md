@@ -45,6 +45,16 @@
 | Markmið (Goal) | 50% styttri leitartími |
 | Metnaðarmarkmið (Stretch) | 70% styttri leitartími |
 
+### BO-3: Finna hversu marga notenda kerfið getur höndlað
+
+| Atriði | Lýsing |
+|---|---|
+| Mælikvarði (Scale) | Kerfið verður að geta haldið utan um starfsmannafjölda og svigrúmi |
+| Mæliaðferð (Meter) | Pláss og notendakannanir  |
+| Fyrri staða (Past) | Ekki þekkt enn. Núverandi starfsmannafjöldi verður fenginn frá HR fyrir innleiðingu |
+| Markmið (Goal) | Kerfið getur höndlað 105% af stærð starfsmannafjölda |
+| Metnaðarmarkmið (Stretch) | Kerfið getur höndlað 108% af stærð starfsmannafjölda |
+
 ## 2. Framtíðarsýn
 
 Fyrir mannauðsdeildir, stjórnendur og starfsmenn sem þurfa skjótan og öruggan aðgang að upplýsingum um starfsfólk og skipulag fyrirtækisins. Kerfisskráin er vefbundið starfsmanna- og skipuritakerfi sem sameinar allar helstu upplýsingar um starfsmenn á einum stað. Kerfið einfaldar leit að starfsmönnum, uppfærslu starfsmannagagna og yfirsýn yfir skipulag fyrirtækisins sem dregur úr handvirkri vinnu og eykur skilvirkni. Ólíkt því að geyma upplýsingar í Excel-skjölum eða dreifðum kerfum býður Kerfisskráin upp á miðlæga, örugga og alltaf uppfærða lausn þar sem notendur geta auðveldlega fundið þær upplýsingar sem þeir þurfa og séð stöðu sína innan skipulagi fyrirtækisins.
