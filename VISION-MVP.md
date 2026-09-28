@@ -56,16 +56,18 @@ mestu máli fyrir framtíðarsýnina og MVP. Rökstyðjið valið. Vísið í
 verkefni 2 í stað þess að endurtaka alla hagsmunaaðilagreininguna. 
 -->
 
-**Val á notendahópi:** [Hvers vegna skiptir þessi hópur mestu máli
-fyrir fyrstu útgáfuna?]
+**Val á notendahópi: Mannauðsdeild** [Mannauðsdeildin þarf að geta breyt upplýsingum og hafið yfirsýn yfir skipulag fyrirtækisins]
 
 | Atriði | Lýsing |
 |---|---|
-| Notendahópur og hlutverk | [Hverjir eru þetta og hvaða hlutverki gegna þeir?] |
-| Helsta virði (Major value) | [Hvaða ávinning fá þeir af vörunni?] |
-| Viðhorf (Attitudes) | [Hvaða væntingar eða fyrirvara hafa þeir?] |
-| Helstu áhugamál (Major interests) | [Hvaða eiginleikar og gæði skipta þá mestu máli?] |
-| Takmarkanir (Constraints) | [Hvaða þekktu skilyrði þarf að taka tillit til?] |
+| Notendahópur og hlutverk | [ Mannauðsdeildin sér um yfirsýn á gögnum/upplýsingum um starfsmönum til dæmis kt, síma, etc ] |
+| Helsta virði (Major value) | [ Aðal áviningurinn er sá að notendahópurinn heldur utan um mikilvægar upplýsingar á einum stað og geti viðhaldið þeim á skilvirkan hátt] |
+| Viðhorf (Attitudes) | [ Notendahópurinn býst við að kerfið sé einfalt, áreiðanlegt og öruggt og að hægt sé að treysta því að upplýsingarnar séu réttar. ] |
+| Helstu áhugamál (Major interests) | [ Hagsmunaðilinn vill geta fundið og uppfært gögn fljótlega. það sem skiptir mestu er tími, rétt gögn og góð yfirýn skiptamestu máli. ] |
+| Takmarkanir (Constraints) | [ Aðeins starfmenn með réttar heimildir mega skoða eða breyta viðkvæmum gögnum ] |
+
+<!-- Ef þið veljið fleiri en einn hóp/aðila, gerið sérstakan prófíl
+fyrir hvern þeirra. -->
 
 <!-- Ef þið veljið fleiri en einn hóp/aðila, gerið sérstakan prófíl
 fyrir hvern þeirra. -->
