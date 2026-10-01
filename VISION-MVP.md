@@ -63,7 +63,7 @@ Fyrir mannauðsdeildir, stjórnendur og starfsmenn sem þurfa skjótan og örugg
 | Notendahópur og hlutverk | [ Mannauðsdeildin sér um yfirsýn á gögnum/upplýsingum um starfsmönum til dæmis kt, síma, etc ] |
 | Helsta virði (Major value) | [ Aðal áviningurinn er sá að notendahópurinn heldur utan um mikilvægar upplýsingar á einum stað og geti viðhaldið þeim á skilvirkan hátt] |
 | Viðhorf (Attitudes) | [ Notendahópurinn býst við að kerfið sé einfalt, áreiðanlegt og öruggt og að hægt sé að treysta því að upplýsingarnar séu réttar. ] |
-| Helstu áhugamál (Major interests) | [ Hagsmunaðilinn vill geta fundið og uppfært gögn fljótlega. það sem skiptir mestu er tími, rétt gögn og góð yfirýn skiptamestu máli. ] |
+| Helstu áhugamál (Major interests) | [ Hagsmunaðilinn vill geta fundið og uppfært gögn fljótlega. það sem skiptir hagsmunaðilanum mestu máli er tími, rétt gögn og góð yfirýn. ] |
 | Takmarkanir (Constraints) | [ Aðeins starfmenn með réttar heimildir mega skoða eða breyta viðkvæmum gögnum ] |
 
 
