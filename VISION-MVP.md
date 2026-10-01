@@ -60,22 +60,22 @@ Fyrir mannauðsdeildir, stjórnendur og starfsmenn sem þurfa skjótan og örugg
 
 | Atriði | Lýsing |
 |---|---|
-| Notendahópur og hlutverk | [ Mannauðsdeildin sér um yfirsýn á gögnum/upplýsingum um starfsmönum til dæmis kt, síma, etc ] |
-| Helsta virði (Major value) | [ Aðal áviningurinn er sá að notendahópurinn heldur utan um mikilvægar upplýsingar á einum stað og geti viðhaldið þeim á skilvirkan hátt] |
-| Viðhorf (Attitudes) | [ Notendahópurinn býst við að kerfið sé einfalt, áreiðanlegt og öruggt og að hægt sé að treysta því að upplýsingarnar séu réttar. ] |
-| Helstu áhugamál (Major interests) | [ Hagsmunaðilinn vill geta fundið og uppfært gögn fljótlega. það sem skiptir hagsmunaðilanum mestu máli er tími, rétt gögn og góð yfirýn. ] |
-| Takmarkanir (Constraints) | [ Aðeins starfmenn með réttar heimildir mega skoða eða breyta viðkvæmum gögnum ] |
+| Notendahópur og hlutverk |  Mannauðsdeildin sér um yfirsýn á gögnum/upplýsingum um starfsmönum til dæmis kt, síma, etc  |
+| Helsta virði (Major value) |  Aðal áviningurinn er sá að notendahópurinn heldur utan um mikilvægar upplýsingar á einum stað og geti viðhaldið þeim á skilvirkan hátt |
+| Viðhorf (Attitudes) |  Notendahópurinn býst við að kerfið sé einfalt, áreiðanlegt og öruggt og að hægt sé að treysta því að upplýsingarnar séu réttar.  |
+| Helstu áhugamál (Major interests) |  Hagsmunaðilinn vill geta fundið og uppfært gögn fljótlega. það sem skiptir hagsmunaðilanum mestu máli er tími, rétt gögn og góð yfirýn.  |
+| Takmarkanir (Constraints) |  Aðeins starfmenn með réttar heimildir mega skoða eða breyta viðkvæmum gögnum  |
 
 
 ## 4. Forgangsröðun verkefnisins
 
 | Vídd | Flokkun | Rökstuðningur |
 |---|---|---|
-| Eiginleikar | [**drifkraft (Driver)**] | [ Helstu lykil eiginleikar eru leitar tól á gagnasafninu, uppfærlsa gagna og yfirsýn yfir skipuritið. Eiginleikarnir eru lykilatriði því án þeirra væri ekki hægt að uppfylla rétt gögn í BO-1 eða tíma tökur í BO-2 ] |
-| Gæði | [**drifkraft (Driver)**] | [ Helstu gæði væru Áreiðanleiki, einföld notkun, öryggi og aðgangs skipting. Gæði kerfisins hafa bein áhrif á hvort hægt er að ná markmiðum til dæmis um 95% gagnanákvæmi og hvort notendur geti treyst á kerfið ] |
-| Tímasetningar | [**frjálsleika/frígráðu (Degree of freedom)**] | [ Það er ekki búið að ákveða hvenær afhentingardagurinn er frá viðskiptavini. Þannig er hægt að aðlaga tímasetningu að umfangi og þróun verkefnis meðan við fyrstu útgáfu. Lengi sem hún er skilað innan þeirra tímamarka sem verkefnið fær ] |
-| Kostnaður | [**frjálsleika/frígráðu (Degree of freedom)**] | [ Það er enginn fasturkosntnaður á þessum tíma í verkefinu. Því er kostnaður ekki helsti þáttur sem stýrir þróunninn í fyrstu útgáfu. Þó að við ætlum að halda lausninni einfaldri og hagkvæmri ] |
-| Mannafli | [**takmörkun (Constraint)**] | [ Það er algjörlega fast. Engum verðir bæti við eftir þörfum og teymið þarf að vinna að verkefnið með þeirri getu sem það hefur nú þegar. Því Þarf að taka það tilgreina í tímasetningu og umfangi verkefnis. ] |
+| Eiginleikar | **drifkraft (Driver)** |  Helstu lykil eiginleikar eru leitar tól á gagnasafninu, uppfærlsa gagna og yfirsýn yfir skipuritið. Eiginleikarnir eru lykilatriði því án þeirra væri ekki hægt að uppfylla rétt gögn í BO-1 eða tíma tökur í BO-2  |
+| Gæði | **drifkraft (Driver)** |  Helstu gæði væru Áreiðanleiki, einföld notkun, öryggi og aðgangs skipting. Gæði kerfisins hafa bein áhrif á hvort hægt er að ná markmiðum til dæmis um 95% gagnanákvæmi og hvort notendur geti treyst á kerfið  |
+| Tímasetningar | **frjálsleika/frígráðu (Degree of freedom)** |  Það er ekki búið að ákveða hvenær afhentingardagurinn er frá viðskiptavini. Þannig er hægt að aðlaga tímasetningu að umfangi og þróun verkefnis meðan við fyrstu útgáfu. Lengi sem hún er skilað innan þeirra tímamarka sem verkefnið fær  |
+| Kostnaður | **frjálsleika/frígráðu (Degree of freedom)** |  Það er enginn fasturkosntnaður á þessum tíma í verkefinu. Því er kostnaður ekki helsti þáttur sem stýrir þróunninn í fyrstu útgáfu. Þó að við ætlum að halda lausninni einfaldri og hagkvæmri  |
+| Mannafli | **takmörkun (Constraint)** |  Það er algjörlega fast. Engum verðir bæti við eftir þörfum og teymið þarf að vinna að verkefnið með þeirri getu sem það hefur nú þegar. Því Þarf að taka það tilgreina í tímasetningu og umfangi verkefnis.  |
 
 
 ## 5. Umfang fyrstu útgáfu (MVP)
