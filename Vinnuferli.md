@@ -10,7 +10,6 @@
 - Byrjuðum á að uppfæra main branchið með því að framkvæma pull. Næst var búið til nýtt branch út frá main, breytingar voru vistaðar með commit á því branchi og síðan var branchið pushað til að geta stofnað Pull Request.
 
 ## Ígrundun
-- Í lok verkefnis gerið endurmat á verkefninu:
     - Samskipti innan hópsins voru mjög góð. Verkferlið sem við ákváðum í upphafi var notkun á issues og pull requests það gekk vel og auðveldaði samvinnuna.
     - Okkur fannst verkefnið almennt ganga vel fyrir sig og markmiðum þess var náð.
 
