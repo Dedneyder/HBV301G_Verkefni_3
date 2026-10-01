@@ -1,14 +1,12 @@
 # Viðskiptamarkmið, framtíðarsýn og Minimum Viable Product 
 
-<!-- Takið út hornklofa og fyllið inn í --> 
-
 **Verkefni 3 — Vision and Scope**
 
-**Heiti kerfis:** [Heiti]
+**Heiti kerfis:** Kerfisskrá
 
-**Teymi og höfundar:** [Númer teymis og full nöfn]
+**Teymi og höfundar:** Björgvin og Konráð
 
-**Git repository:** [Slóð]
+**Git repository:** (https://github.com/Dedneyder/HBV301G_Verkefni_3)
 
 ## Efnisyfirlit
 
@@ -21,9 +19,6 @@
 
 
 ## 1. Viðskiptamarkmið
-
-<!-- Lýsið hvaða árangri viðskiptavinur eða stofnun vill ná með kerfinu og hvers vegna. Setjið fram mælanleg markmið þar sem því verður við komið: núverandi staða, æskileg breyting, mælikvarði og tímamörk. Greinið á milli viðskiptalegs árangurs og virkni kerfisins. Tengið markmiðin við þær þarfir sem komu fram í fyrri verkefnum. -->
-<!-- Takið út hornklofa og fyllið inn í - Endurtakið eftir þörfum --> 
 
 ### BO-1: Tryggja að 95% starfsmannagagna séu rétt og uppfærð innan þriggja mánaða frá innleiðingu
 | Atriði | Lýsing |
@@ -61,12 +56,7 @@ Fyrir mannauðsdeildir, stjórnendur og starfsmenn sem þurfa skjótan og örugg
 
 ## 3. Prófíll lykilhagsmunaaðila eða mikilvægra notenda
 
-<!-- Veljið þann hóp/a úr verkefni 2 sem skipta
-mestu máli fyrir framtíðarsýnina og MVP. Rökstyðjið valið. Vísið í
-verkefni 2 í stað þess að endurtaka alla hagsmunaaðilagreininguna. 
--->
-
-**Val á notendahópi: Mannauðsdeild** [Mannauðsdeildin þarf að geta breyt upplýsingum og hafið yfirsýn yfir skipulag fyrirtækisins]
+**Val á notendahópi: Mannauðsdeild** Mannauðsdeildin þarf að geta breyt upplýsingum og hafið yfirsýn yfir skipulag fyrirtækisins
 
 | Atriði | Lýsing |
 |---|---|
@@ -75,12 +65,6 @@ verkefni 2 í stað þess að endurtaka alla hagsmunaaðilagreininguna.
 | Viðhorf (Attitudes) | [ Notendahópurinn býst við að kerfið sé einfalt, áreiðanlegt og öruggt og að hægt sé að treysta því að upplýsingarnar séu réttar. ] |
 | Helstu áhugamál (Major interests) | [ Hagsmunaðilinn vill geta fundið og uppfært gögn fljótlega. það sem skiptir mestu er tími, rétt gögn og góð yfirýn skiptamestu máli. ] |
 | Takmarkanir (Constraints) | [ Aðeins starfmenn með réttar heimildir mega skoða eða breyta viðkvæmum gögnum ] |
-
-<!-- Ef þið veljið fleiri en einn hóp/aðila, gerið sérstakan prófíl
-fyrir hvern þeirra. -->
-
-<!-- Ef þið veljið fleiri en einn hóp/aðila, gerið sérstakan prófíl
-fyrir hvern þeirra. -->
 
 
 ## 4. Forgangsröðun verkefnisins
@@ -96,9 +80,6 @@ fyrir hvern þeirra. -->
 
 ## 5. Umfang fyrstu útgáfu (MVP)
 
-<!-- Lýsið minnstu nothæfu útgáfu kerfisins sem skilar virði fyrir mikilvæga
-notendur og styður við viðskiptamarkmiðin í kafla 1. Hér er verið að afmarka
-fyrstu útgáfu, ekki endurtaka kerfismörkin úr verkefni 1. -->
 
 ### 5.1 Umfang fyrstu útgáfu (MVP)
 
