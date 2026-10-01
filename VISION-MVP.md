@@ -60,22 +60,22 @@ Fyrir mannauðsdeildir, stjórnendur og starfsmenn sem þurfa skjótan og örugg
 
 | Atriði | Lýsing |
 |---|---|
-| Notendahópur og hlutverk | [ Mannauðsdeildin sér um yfirsýn á gögnum/upplýsingum um starfsmönum til dæmis kt, síma, etc ] |
-| Helsta virði (Major value) | [ Aðal áviningurinn er sá að notendahópurinn heldur utan um mikilvægar upplýsingar á einum stað og geti viðhaldið þeim á skilvirkan hátt] |
-| Viðhorf (Attitudes) | [ Notendahópurinn býst við að kerfið sé einfalt, áreiðanlegt og öruggt og að hægt sé að treysta því að upplýsingarnar séu réttar. ] |
-| Helstu áhugamál (Major interests) | [ Hagsmunaðilinn vill geta fundið og uppfært gögn fljótlega. það sem skiptir hagsmunaðilanum mestu máli er tími, rétt gögn og góð yfirýn. ] |
-| Takmarkanir (Constraints) | [ Aðeins starfmenn með réttar heimildir mega skoða eða breyta viðkvæmum gögnum ] |
+| Notendahópur og hlutverk | Mannauðsdeildin sér um yfirsýn á gögnum/upplýsingum um starfsmönum til dæmis kt, síma, etc |
+| Helsta virði (Major value) | Aðal áviningurinn er sá að notendahópurinn heldur utan um mikilvægar upplýsingar á einum stað og geti viðhaldið þeim á skilvirkan hátt |
+| Viðhorf (Attitudes) | Notendahópurinn býst við að kerfið sé einfalt, áreiðanlegt og öruggt og að hægt sé að treysta því að upplýsingarnar séu réttar. |
+| Helstu áhugamál (Major interests) | Hagsmunaðilinn vill geta fundið og uppfært gögn fljótlega. það sem skiptir hagsmunaðilanum mestu máli er tími, rétt gögn og góð yfirýn. |
+| Takmarkanir (Constraints) | Aðeins starfmenn með réttar heimildir mega skoða eða breyta viðkvæmum gögnum |
 
 
 ## 4. Forgangsröðun verkefnisins
 
 | Vídd | Flokkun | Rökstuðningur |
 |---|---|---|
-| Eiginleikar | [**drifkraft (Driver)**] | [ Helstu lykil eiginleikar eru leitar tól á gagnasafninu, uppfærlsa gagna og yfirsýn yfir skipuritið. Eiginleikarnir eru lykilatriði því án þeirra væri ekki hægt að uppfylla rétt gögn í BO-1 eða tíma tökur í BO-2 ] |
-| Gæði | [**drifkraft (Driver)**] | [ Helstu gæði væru Áreiðanleiki, einföld notkun, öryggi og aðgangs skipting. Gæði kerfisins hafa bein áhrif á hvort hægt er að ná markmiðum til dæmis um 95% gagnanákvæmi og hvort notendur geti treyst á kerfið ] |
-| Tímasetningar | [**frjálsleika/frígráðu (Degree of freedom)**] | [ Það er ekki búið að ákveða hvenær afhentingardagurinn er frá viðskiptavini. Þannig er hægt að aðlaga tímasetningu að umfangi og þróun verkefnis meðan við fyrstu útgáfu. Lengi sem hún er skilað innan þeirra tímamarka sem verkefnið fær ] |
-| Kostnaður | [**frjálsleika/frígráðu (Degree of freedom)**] | [ Það er enginn fasturkosntnaður á þessum tíma í verkefinu. Því er kostnaður ekki helsti þáttur sem stýrir þróunninn í fyrstu útgáfu. Þó að við ætlum að halda lausninni einfaldri og hagkvæmri ] |
-| Mannafli | [**takmörkun (Constraint)**] | [ Það er algjörlega fast. Engum verðir bæti við eftir þörfum og teymið þarf að vinna að verkefnið með þeirri getu sem það hefur nú þegar. Því Þarf að taka það tilgreina í tímasetningu og umfangi verkefnis. ] |
+| Eiginleikar | **drifkraft (Driver)** | Helstu lykil eiginleikar eru leitar tól á gagnasafninu, uppfærlsa gagna og yfirsýn yfir skipuritið. Eiginleikarnir eru lykilatriði því án þeirra væri ekki hægt að uppfylla rétt gögn í BO-1 eða tíma tökur í BO-2 |
+| Gæði | **drifkraft (Driver)** | Helstu gæði væru Áreiðanleiki, einföld notkun, öryggi og aðgangs skipting. Gæði kerfisins hafa bein áhrif á hvort hægt er að ná markmiðum til dæmis um 95% gagnanákvæmi og hvort notendur geti treyst á kerfið |
+| Tímasetningar | **frjálsleika/frígráðu (Degree of freedom)** | Það er ekki búið að ákveða hvenær afhentingardagurinn er frá viðskiptavini. Þannig er hægt að aðlaga tímasetningu að umfangi og þróun verkefnis meðan við fyrstu útgáfu. Lengi sem hún er skilað innan þeirra tímamarka sem verkefnið fær |
+| Kostnaður | **frjálsleika/frígráðu (Degree of freedom)** | Það er enginn fasturkosntnaður á þessum tíma í verkefinu. Því er kostnaður ekki helsti þáttur sem stýrir þróunninn í fyrstu útgáfu. Þó að við ætlum að halda lausninni einfaldri og hagkvæmri |
+| Mannafli | **takmörkun (Constraint)** | Það er algjörlega fast. Engum verðir bæti við eftir þörfum og teymið þarf að vinna að verkefnið með þeirri getu sem það hefur nú þegar. Því Þarf að taka það tilgreina í tímasetningu og umfangi verkefnis. |
 
 
 ## 5. Umfang fyrstu útgáfu (MVP)
@@ -85,12 +85,12 @@ Fyrir mannauðsdeildir, stjórnendur og starfsmenn sem þurfa skjótan og örugg
 
 | Hvað þarf að vera í MVP? | Hvers vegna? | Tengsl við fyrri verkefni, ef við á |
 |---|---|---|
-| [Starfsmannaskrá með helstu upplýsingum um starfsmenn] | [Mannauðsdeild Þarf stað til að geyma og skoða upplýsingar. Þetta snertir BO-1 vegna réttar gangnar og uppfærslu gagna] | [ Tengir við [F-1](feature.md#f-1) og [F-2](feature.md#f-2) (starfsmannaupplýsingar og skipulagstré) Meðal annars er þetta þörf úr verkefni 2 mannauðsdeildar] |
-| [Leit að starfsmönnum] | [Notendur þurfa að geta fundið upplýsingar fljótt. Þetta styður við beint í BO-2 um að stytta leitartíma ] | [Þetta er þörf mannauðsdeildar í verkefni 2, [FR-1](functional_requirement.md#fr-1) og [FR-3](functional_requirement.md#fr-3) (Leit af starfsmanni og Leitarniðurstöður) og [QA-2](quality_attribute.md#qa-2) (Auðveld notkun)] |
-| [Uppfærsla starfsmannaupplýsinga] | [Mannauðsdeild þarf að geta uppfært upplýsingar í kerfinu. ] | [BO-1 og notendaþörf í verkefni 2. [UR-2](user_requirement.md#ur-2) og [UR-4](user_requirement.md#ur-4)(Stjórnandi bætir fólki við deild og HR uppfærir upplýsingar), [FR-5](functional_requirement.md#fr-5) [FR-11](functional_requirement.md#fr-11) ] |
-| [Einfalt skipurit] | [Notendur þurfa yfirsýn yfir deildir, stjórnendur og tengsl starfsmanna innan fyrirtæksins] | [Framtýðarsýn og þörf stjórnenda í verkefni 2.] |
-| [Aðgangsstýring] | [Aðeins notendur með heimild mega skoða eða breyta viðkvæmum gögnum. Þetta er nauðsynlegt vegna öryggi persónu upplýsingar] | [ Takmörkun lykilnotenda úr verkefni 2] |
-| [Einfalt og skýrt notendaviðmót] | [Þar sem kerfið verður notað reglulega þarf það að vera auðvelt í notkun og gera notendum kleift að finna og breyta upplýsingum hratt] | [Viðhorf og þarfir mannauðsdeildar úr verkefni 2] |
+| Starfsmannaskrá með helstu upplýsingum um starfsmenn | Mannauðsdeild Þarf stað til að geyma og skoða upplýsingar. Þetta snertir BO-1 vegna réttar gangnar og uppfærslu gagna | Tengir við [F-1](feature.md#f-1) og [F-2](feature.md#f-2) (starfsmannaupplýsingar og skipulagstré) Meðal annars er þetta þörf úr verkefni 2 mannauðsdeildar |
+| Leit að starfsmönnum | Notendur þurfa að geta fundið upplýsingar fljótt. Þetta styður við beint í BO-2 um að stytta leitartíma | Þetta er þörf mannauðsdeildar í verkefni 2, [FR-1](functional_requirement.md#fr-1) og [FR-3](functional_requirement.md#fr-3) (Leit af starfsmanni og Leitarniðurstöður) og [QA-2](quality_attribute.md#qa-2) (Auðveld notkun) |
+| Uppfærsla starfsmannaupplýsinga | Mannauðsdeild þarf að geta uppfært upplýsingar í kerfinu. | BO-1 og notendaþörf í verkefni 2. [UR-2](user_requirement.md#ur-2) og [UR-4](user_requirement.md#ur-4)(Stjórnandi bætir fólki við deild og HR uppfærir upplýsingar), [FR-5](functional_requirement.md#fr-5) [FR-11](functional_requirement.md#fr-11) |
+| Einfalt skipurit | Notendur þurfa yfirsýn yfir deildir, stjórnendur og tengsl starfsmanna innan fyrirtæksins | Framtýðarsýn og þörf stjórnenda í verkefni 2. |
+| Aðgangsstýring | Aðeins notendur með heimild mega skoða eða breyta viðkvæmum gögnum. Þetta er nauðsynlegt vegna öryggi persónu upplýsingar | Takmörkun lykilnotenda úr verkefni 2 |
+| Einfalt og skýrt notendaviðmót | Þar sem kerfið verður notað reglulega þarf það að vera auðvelt í notkun og gera notendum kleift að finna og breyta upplýsingum hratt | Viðhorf og þarfir mannauðsdeildar úr verkefni 2 |
 |---|---|---|
 
 ### 5.2 Rökstuðningur fyrir vali í fyrstu útgáfu
@@ -105,15 +105,14 @@ Aðgangsstýring og einfalt notendaviðmót eru einnig nauðsynleg þar sem note
 
 | Eiginleiki | Ástæða þess að hann getur beðið |
 |---|---|
-| [Ítarleg leit og síun eftir mörgum skilyrðum] | [Einföld æeit nægir til að uppfylla grunnþarfir MVP og BO-2. Ítarlegri leit má bæta við síðar ] |
-| [Ítarlegar breytingasögur starfsmannagagna] | [Gagnlegt fyrir rekjnaleika en ekki nauðsynlegt til að fyrstu útgáfan skili grunnvirði] |
-| [Sjálfsafgreiðsla starfsmanna] | [Starfsmenn gætu síðar fengið að uppfæra ákveðnar upplýsingar sjálfir, en í MVP getur mannauðsdeild séð um breytingar.] |
-| [Ítarleg skýrslugerð og tölfræði] | [Slík virkni getur aukið virði kerfisins en er ekki nauðsynleg til að ná BO-1 og BO-2 í fyrstu útgáfu.] |
-| [Tilkynningar um breytingar] | [Gagnleg viðbót en ekki nauðsynleg fyrir grunnvirkni starfsmannaskrár og skipurits.] |
+| Ítarleg leit og síun eftir mörgum skilyrðum | Einföld æeit nægir til að uppfylla grunnþarfir MVP og BO-2. Ítarlegri leit má bæta við síðar |
+| Ítarlegar breytingasögur starfsmannagagna | Gagnlegt fyrir rekjnaleika en ekki nauðsynlegt til að fyrstu útgáfan skili grunnvirði |
+| Sjálfsafgreiðsla starfsmanna | Starfsmenn gætu síðar fengið að uppfæra ákveðnar upplýsingar sjálfir, en í MVP getur mannauðsdeild séð um breytingar. |
+| Ítarleg skýrslugerð og tölfræði | Slík virkni getur aukið virði kerfisins en er ekki nauðsynleg til að ná BO-1 og BO-2 í fyrstu útgáfu. |
+| Tilkynningar um breytingar | Gagnleg viðbót en ekki nauðsynleg fyrir grunnvirkni starfsmannaskrár og skipurits. |
 
 ### 5.4 Takmarkanir og útilokanir
 
-[Fyrsta útgáfa kerfisins er ekki ætluð sem fullkomið mannauðskerfi. Kerfið mun því ekki sjá um launavinnalu, ráðningarferli, tímaskráningu, frammistöðumat eða önnur sérhæfð mannauðsferli.
+Fyrsta útgáfa kerfisins er ekki ætluð sem fullkomið mannauðskerfi. Kerfið mun því ekki sjá um launavinnalu, ráðningarferli, tímaskráningu, frammistöðumat eða önnur sérhæfð mannauðsferli.
 
-Áheyrsla kerfisins verður á skráningu, viðhald og leit að starfsmannaupplýsingum ásamt yfirsýn fyrir skipulag fyrirtæksins]
-
+Áheyrsla kerfisins verður á skráningu, viðhald og leit að starfsmannaupplýsingum ásamt yfirsýn fyrir skipulag fyrirtæksins
