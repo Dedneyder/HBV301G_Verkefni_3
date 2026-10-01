@@ -85,12 +85,12 @@ Fyrir mannauðsdeildir, stjórnendur og starfsmenn sem þurfa skjótan og örugg
 
 | Hvað þarf að vera í MVP? | Hvers vegna? | Tengsl við fyrri verkefni, ef við á |
 |---|---|---|
-| [Starfsmannaskrá með helstu upplýsingum um starfsmenn] | [Mannauðsdeild Þarf stað til að geyma og skoða upplýsingar. Þetta snertir BO-1 vegna réttar gangnar og uppfærslu gagna] | [ Tengir við [F-1](feature.md#f-1) og [F-2](feature.md#f-2) (starfsmannaupplýsingar og skipulagstré) Meðal annars er þetta þörf úr verkefni 2 mannauðsdeildar] |
-| [Leit að starfsmönnum] | [Notendur þurfa að geta fundið upplýsingar fljótt. Þetta styður við beint í BO-2 um að stytta leitartíma ] | [Þetta er þörf mannauðsdeildar í verkefni 2, [FR-1](functional_requirement.md#fr-1) og [FR-3](functional_requirement.md#fr-3) (Leit af starfsmanni og Leitarniðurstöður) og [QA-2](quality_attribute.md#qa-2) (Auðveld notkun)] |
-| [Uppfærsla starfsmannaupplýsinga] | [Mannauðsdeild þarf að geta uppfært upplýsingar í kerfinu. ] | [BO-1 og notendaþörf í verkefni 2. [UR-2](user_requirement.md#ur-2) og [UR-4](user_requirement.md#ur-4)(Stjórnandi bætir fólki við deild og HR uppfærir upplýsingar), [FR-5](functional_requirement.md#fr-5) [FR-11](functional_requirement.md#fr-11) ] |
-| [Einfalt skipurit] | [Notendur þurfa yfirsýn yfir deildir, stjórnendur og tengsl starfsmanna innan fyrirtæksins] | [Framtýðarsýn og þörf stjórnenda í verkefni 2.] |
-| [Aðgangsstýring] | [Aðeins notendur með heimild mega skoða eða breyta viðkvæmum gögnum. Þetta er nauðsynlegt vegna öryggi persónu upplýsingar] | [ Takmörkun lykilnotenda úr verkefni 2] |
-| [Einfalt og skýrt notendaviðmót] | [Þar sem kerfið verður notað reglulega þarf það að vera auðvelt í notkun og gera notendum kleift að finna og breyta upplýsingum hratt] | [Viðhorf og þarfir mannauðsdeildar úr verkefni 2] |
+| Starfsmannaskrá með helstu upplýsingum um starfsmenn | Mannauðsdeild Þarf stað til að geyma og skoða upplýsingar. Þetta snertir BO-1 vegna réttar gangnar og uppfærslu gagna |  Tengir við [F-1](feature.md#f-1) og [F-2](feature.md#f-2) (starfsmannaupplýsingar og skipulagstré) Meðal annars er þetta þörf úr verkefni 2 mannauðsdeildar |
+| Leit að starfsmönnum | Notendur þurfa að geta fundið upplýsingar fljótt. Þetta styður við beint í BO-2 um að stytta leitartíma  | Þetta er þörf mannauðsdeildar í verkefni 2, [FR-1](functional_requirement.md#fr-1) og [FR-3](functional_requirement.md#fr-3) (Leit af starfsmanni og Leitarniðurstöður) og [QA-2](quality_attribute.md#qa-2) (Auðveld notkun) |
+| Uppfærsla starfsmannaupplýsinga | Mannauðsdeild þarf að geta uppfært upplýsingar í kerfinu.  | BO-1 og notendaþörf í verkefni 2. [UR-2](user_requirement.md#ur-2) og [UR-4](user_requirement.md#ur-4)(Stjórnandi bætir fólki við deild og HR uppfærir upplýsingar), [FR-5](functional_requirement.md#fr-5) [FR-11](functional_requirement.md#fr-11)  |
+| Einfalt skipurit | Notendur þurfa yfirsýn yfir deildir, stjórnendur og tengsl starfsmanna innan fyrirtæksins | Framtýðarsýn og þörf stjórnenda í verkefni 2. |
+| Aðgangsstýring | Aðeins notendur með heimild mega skoða eða breyta viðkvæmum gögnum. Þetta er nauðsynlegt vegna öryggi persónu upplýsingar |  Takmörkun lykilnotenda úr verkefni 2 |
+| Einfalt og skýrt notendaviðmót | Þar sem kerfið verður notað reglulega þarf það að vera auðvelt í notkun og gera notendum kleift að finna og breyta upplýsingum hratt | Viðhorf og þarfir mannauðsdeildar úr verkefni 2 |
 |---|---|---|
 
 ### 5.2 Rökstuðningur fyrir vali í fyrstu útgáfu
@@ -105,15 +105,15 @@ Aðgangsstýring og einfalt notendaviðmót eru einnig nauðsynleg þar sem note
 
 | Eiginleiki | Ástæða þess að hann getur beðið |
 |---|---|
-| [Ítarleg leit og síun eftir mörgum skilyrðum] | [Einföld æeit nægir til að uppfylla grunnþarfir MVP og BO-2. Ítarlegri leit má bæta við síðar ] |
-| [Ítarlegar breytingasögur starfsmannagagna] | [Gagnlegt fyrir rekjnaleika en ekki nauðsynlegt til að fyrstu útgáfan skili grunnvirði] |
-| [Sjálfsafgreiðsla starfsmanna] | [Starfsmenn gætu síðar fengið að uppfæra ákveðnar upplýsingar sjálfir, en í MVP getur mannauðsdeild séð um breytingar.] |
-| [Ítarleg skýrslugerð og tölfræði] | [Slík virkni getur aukið virði kerfisins en er ekki nauðsynleg til að ná BO-1 og BO-2 í fyrstu útgáfu.] |
-| [Tilkynningar um breytingar] | [Gagnleg viðbót en ekki nauðsynleg fyrir grunnvirkni starfsmannaskrár og skipurits.] |
+| Ítarleg leit og síun eftir mörgum skilyrðum | Einföld æeit nægir til að uppfylla grunnþarfir MVP og BO-2. Ítarlegri leit má bæta við síðar  |
+| Ítarlegar breytingasögur starfsmannagagna | Gagnlegt fyrir rekjnaleika en ekki nauðsynlegt til að fyrstu útgáfan skili grunnvirði |
+| Sjálfsafgreiðsla starfsmanna | Starfsmenn gætu síðar fengið að uppfæra ákveðnar upplýsingar sjálfir, en í MVP getur mannauðsdeild séð um breytingar. |
+| Ítarleg skýrslugerð og tölfræði | Slík virkni getur aukið virði kerfisins en er ekki nauðsynleg til að ná BO-1 og BO-2 í fyrstu útgáfu. |
+| Tilkynningar um breytingar | Gagnleg viðbót en ekki nauðsynleg fyrir grunnvirkni starfsmannaskrár og skipurits. |
 
 ### 5.4 Takmarkanir og útilokanir
 
-[Fyrsta útgáfa kerfisins er ekki ætluð sem fullkomið mannauðskerfi. Kerfið mun því ekki sjá um launavinnalu, ráðningarferli, tímaskráningu, frammistöðumat eða önnur sérhæfð mannauðsferli.
+Fyrsta útgáfa kerfisins er ekki ætluð sem fullkomið mannauðskerfi. Kerfið mun því ekki sjá um launavinnalu, ráðningarferli, tímaskráningu, frammistöðumat eða önnur sérhæfð mannauðsferli.
 
-Áheyrsla kerfisins verður á skráningu, viðhald og leit að starfsmannaupplýsingum ásamt yfirsýn fyrir skipulag fyrirtæksins]
+Áheyrsla kerfisins verður á skráningu, viðhald og leit að starfsmannaupplýsingum ásamt yfirsýn fyrir skipulag fyrirtæksins
 
